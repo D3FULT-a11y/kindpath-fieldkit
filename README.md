@@ -19,3 +19,7 @@ This repo exists to make the work reviewable, citeable, and improvable — witho
 - /diagrams
 - /references
 - /licenses
+
+## Community
+Questions, ideas, and proposals live here:
+- KindPath Discussions: https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
